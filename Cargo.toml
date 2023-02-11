@@ -1,0 +1,15 @@
+[package]
+name = "postgres-replication-types"
+description = "Types for Postgres Replication Protocol"
+repository = "https://github.com/ri-nat/postgres-replication-types"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Rinat Shaykhutdinov <mail@rinatshay.com>"]
+keywords = ["postgres", "replication"]
+categories = ["database", "encoding", "parsing"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = { version = "0.4.23" }
