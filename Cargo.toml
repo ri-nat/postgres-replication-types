@@ -2,7 +2,7 @@
 name = "postgres-replication-types"
 description = "Types for Postgres Replication Protocol"
 repository = "https://github.com/ri-nat/postgres-replication-types"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 authors = ["Rinat Shaykhutdinov <mail@rinatshay.com>"]
